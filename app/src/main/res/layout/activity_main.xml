@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:padding="15dp"
+    android:background="@color/Compliment">
+
+    <TextView
+        android:id="@+id/C346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/C346"
+        android:textSize="18dp"
+        android:textColor="@color/black"/>
+
+    <ImageView
+        android:id="@+id/imageC346"
+        android:layout_width="match_parent"
+        android:layout_height="192dp"
+        app:srcCompat="@drawable/c346" />
+
+    <TextView
+        android:id="@+id/C349"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/C349"
+        android:textSize="18dp"
+        android:textColor="@color/black"/>
+
+    <ImageView
+        android:id="@+id/imageC349"
+        android:layout_width="match_parent"
+        android:layout_height="119dp"
+        app:srcCompat="@drawable/c349" />
+
+    <TextView
+        android:id="@+id/C206"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/C206"
+        android:textSize="18dp"
+        android:textColor="@color/black"/>
+
+    <ImageView
+        android:id="@+id/imageC206"
+        android:layout_width="match_parent"
+        android:layout_height="205dp"
+        app:srcCompat="@drawable/c206" />
+
+
+</LinearLayout>

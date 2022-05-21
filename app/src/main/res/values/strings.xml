@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PSL05</string>
+    <string name="C346">*C346 Mobile App Development</string>
+    <string name="C349">*C349 iPad Development and Programming</string>
+    <string name="C206">*C206 Software Development</string>
+    <string name="C203">*C203 Web Appln Development in php</string>
+    <string name="C346_report">Module Code: C346\nModule Name: Android Programming\nAcademic Year: 2020\nSemester: 1\nModule Credit: 4\nVenue: W66M</string>
+    <string name="C349_report">Module Code: C349\nModule Name: iPad Development and Programing\nAcademic Year: 2020\nSemester: 1\nModule Credit: 4\nVenue: E62E</string>
+    <string name="C206_report">Module Code: C206\nModule Name: Software Development\nAcademic Year: 2020\nSemester: 1\nModule Credit: 4\nVenue: W65D</string>
+    <string name="Default_report">Module Code: \nModule Name: \nAcademic Year: \nSemester: \nModule Credit: \nVenue: </string>
+
+
+</resources>
